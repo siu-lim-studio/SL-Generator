@@ -1,0 +1,15 @@
+{
+  "name": "release-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "config":{
+
+  },
+  "scripts": {
+    "start": "node Composer.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
